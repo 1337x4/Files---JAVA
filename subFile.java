@@ -9,7 +9,7 @@ public class subFile {
     {
         try 
         {
-            kbd = new Scanner(new File("/Users/scheeno/coding/JavaScripts/filecl/src/banana.txt"));
+            kbd = new Scanner(new File("YOUR_PATH"));
         }
         catch (FileNotFoundException e) 
         {
