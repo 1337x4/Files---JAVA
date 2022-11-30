@@ -28,6 +28,11 @@ public class subFile {
             System.out.print(a);
             System.out.print(" "+b);
             System.out.print(" "+c);
+            
+            if (kbd.hasNextLine()) 
+            {
+                System.out.println();
+            }
         }
     }
 
